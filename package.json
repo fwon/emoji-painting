@@ -1,0 +1,15 @@
+{
+  "name": "EmojiPainting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fis-conf.js",
+  "dependencies": {
+    "fis-parser-less": "^0.1.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fwon",
+  "license": "MIT",
+  "devDependencies": {}
+}
