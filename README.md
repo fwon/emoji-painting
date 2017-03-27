@@ -1,6 +1,6 @@
 ###Emoji-painting
 
-[Try it](http://fwon.cn/emoji-painting.html)
+[Try it](http://fwon.github.io/emoji-painting.html)
 
 A tiny tool to draw an emoji painting. Enjoy yourself!
 
